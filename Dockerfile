@@ -1,4 +1,3 @@
-Yebi5e!
 FROM n8nio/n8n
 
 # Autentifikacija
